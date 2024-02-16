@@ -1,2 +1,2 @@
 # img_classifier
-creating an image classifier with convolutional neural network to classify happy and sad people.
+Creating an image classifier with convolutional neural network in tensorflow to classify happy and sad people. I got photos of people who's sad-happy from google photos and created dataset then split them into batches and made train, test, val sets from them. Then created convolutional neural network with optimal hyperparameters and trained it. Tested it on test set and compared loss-val_loss to understand if it's overfitted. Th
